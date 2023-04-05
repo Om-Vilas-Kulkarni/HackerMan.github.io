@@ -95,5 +95,9 @@ input{
         font-size: 1.3rem;
         width:70%;
     }
+    
+    #b2,#b1,#b3{
+        height: 900px;
+    }
 }
 
