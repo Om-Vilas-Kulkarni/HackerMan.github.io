@@ -95,9 +95,15 @@ input{
         font-size: 1.3rem;
         width:70%;
     }
-    
-    #b2,#b1,#b3{
-        height: 900px;
+}
+@media (max-width:1499px){
+    #b1{
+        order: 3;
+    }
+    #b2{
+        order: 1;
+    }
+    #b3{
+        order: 2;
     }
 }
-
